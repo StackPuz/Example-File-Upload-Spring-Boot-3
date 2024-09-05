@@ -1,6 +1,6 @@
 # Example-File-Upload-Spring-Boot-3
 - The example demonstrates how to implement data file uploads in Spring-Boot.
-- The article of this repo https://blog.stackpuz.com/building-a-file-upload-api-in-go/
+- The article of this repo https://blog.stackpuz.com/building-a-file-upload-api-in-spring-boot/
 - To find more resources, please visit https://stackpuz.com
 
 ## Prerequisites
